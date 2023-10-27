@@ -1,7 +1,7 @@
 ## 🇧🇷Salve me chamo Lucas Amarilla, entusiasta de tecnologia e dev em horario comerial || 🇺🇸 Hi I'm Lucas Amarilla, tech enthusiast and dev on comercial hours
 
 
-## Conhecimentos atuais || Current knowledge
+Conhecimentos atuais || Current knowledge
 <div style="display: inline_block"><br>
   <h3>Front-end/Mobile:</h3><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -11,6 +11,8 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  
   
 
   <h3>Back-end/Cli:</h3><br>
@@ -23,7 +25,6 @@
   <h3>DBs:</h3><br>
   <img align="center" alt="PgSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySql/MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   
   
