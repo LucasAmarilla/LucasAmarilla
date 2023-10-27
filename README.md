@@ -1,6 +1,6 @@
 ## 🇧🇷Salve me chamo Lucas Amarilla, entusiasta de tecnologia e dev em horario comerial || 🇺🇸 Hi I'm Lucas Amarilla, tech enthusiast and dev on comercial hours
 
-
+<script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
 <div style="display: inline_block"><br>
 <h2>Conhecimentos atuais || Current knowledge</h2>
   
@@ -38,7 +38,7 @@
  
 <div> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="http://www.lucasamarilla.tech/" target="_blank"><img src="https://img.shields.io/badge/Website?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="http://www.lucasamarilla.tech/" target="_blank"><ion-icon name="globe"></ion-icon></a>
   
   <a href="https://instagram.com/dev.amarilla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/lucasp1ka2" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
