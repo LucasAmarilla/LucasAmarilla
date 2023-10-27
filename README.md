@@ -1,6 +1,5 @@
 ## 🇧🇷Salve me chamo Lucas Amarilla, entusiasta de tecnologia e dev em horario comerial || 🇺🇸 Hi I'm Lucas Amarilla, tech enthusiast and dev on comercial hours
 
-<script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
 <div style="display: inline_block"><br>
 <h2>Conhecimentos atuais || Current knowledge</h2>
   
