@@ -1,7 +1,7 @@
 ## 🇧🇷Salve me chamo Lucas Amarilla, entusiasta de tecnologia e dev em horario comerial || 🇺🇸 Hi I'm Lucas Amarilla, tech enthusiast and dev on comercial hours
 
 
-Conhecimentos atuais || Current knowledge
+<h2>Conhecimentos atuais || Current knowledge</h2>
 <div style="display: inline_block"><br>
   <h3>Front-end/Mobile:</h3><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
