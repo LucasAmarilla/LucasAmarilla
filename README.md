@@ -1,5 +1,5 @@
 ## 🇧🇷Salve me chamo Lucas Amarilla, entusiasta de tecnologia e dev em horario comerial || 🇺🇸 Hi I'm Lucas Amarilla, tech enthusiast and dev on comercial hours
-
+![LucasAmarilla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAmarilla&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <div style="display: inline_block"><br>
 <h2>Conhecimentos atuais || Current knowledge</h2>
   
